@@ -1,0 +1,25 @@
+{
+  "name": "text-control",
+  "main": "text-control.js",
+  "version": "1.0.0",
+  "authors": [
+    "marcuscaum <marcuslucas.jb@gmail.com>"
+  ],
+  "description": "Fast way to substring your texts",
+  "keywords": [
+    "jquery",
+    "text",
+    "content",
+    "substring",
+    "values"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/marcuscaum",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
