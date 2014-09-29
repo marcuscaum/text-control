@@ -25,7 +25,7 @@ It is also available via [bower].
 $('.foo').texControl();
 ```
 
-To make the script run when the page load, you need to put the "shiny" inside a load, ready function or in the end of the <body>, like this:
+To make the script run when the page load, you need to put the function inside a load, ready function or in the end of the body, like this:
 
 ``` javascript
 $(document).ready(function(){
