@@ -8,7 +8,7 @@ Just include text-control.js after jQuery. Requires jQuery 1.4+.
 
 It is also available via [bower].
 
-    $ bower install --save shinyjs
+    $ bower install --save text-control
 
 [bower]: http://bower.io/
 
