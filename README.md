@@ -35,7 +35,7 @@ $(document).ready(function(){
 ## Settings
 
 ``` javascript
-$('.foo').texControl({
+$('.foo').textControl({
 	limit: 26
 });
 ```
