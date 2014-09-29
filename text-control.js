@@ -8,10 +8,10 @@
             limit: 15
         }, options );
 
-     	console.log(settings.letras);
+     	console.log(settings.limit);
 
-		if(lg >= settings.letras){
-			text = text.substring(0, settings.letras + 3) + "...";
+		if(lg >= settings.limit){
+			text = text.substring(0, settings.limit + 3) + "...";
 			console.log(text);
 		}
 
